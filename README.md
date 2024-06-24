@@ -1,1 +1,1 @@
-run ocel_querying.py
+This scripts were created as a part of my master's thesis. The purpose of the scripts are to query object centric event logs in natural language using LLMs (GPT-4, GPT-3.5) and conduct deeper analysis. 
